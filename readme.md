@@ -11,8 +11,8 @@ I still have to figure out if my generation method is efficent, i think the png 
 * Small changes to the interface
 
 ###Todos
-- [] Make the interface more userfrendly
-- [] Users can modify equations
-- [] Add "zooming"
-- [] Add Julia set
+- [ ] Make the interface more userfrendly
+- [ ] Users can modify equations
+- [ ] Add "zooming"
+- [ ] Add Julia set
 - [x] User can control image dimension
